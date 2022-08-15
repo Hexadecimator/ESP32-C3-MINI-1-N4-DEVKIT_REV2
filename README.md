@@ -2,4 +2,4 @@
 New and improved ESP32-C3-MINI-1-N4 Devkit
 
 
-![Rev1 layout](layout.png)
+![Rev1 layout](layout.PNG)
