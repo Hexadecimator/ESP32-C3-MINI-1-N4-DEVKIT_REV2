@@ -62,8 +62,8 @@
       35,
       36
     ],
-    "visible_layers": "ffcffcf_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffcffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ESP32-C3-MINI-1-N4-DEVKIT_V2.kicad_prl",
